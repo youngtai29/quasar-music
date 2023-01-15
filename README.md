@@ -1,6 +1,6 @@
 # Quasar App (quasar-music)
 
-Vue + Quasar 开发的一款多端适配的音乐网站, 持续开发中
+Vue + Quasar 开发的一款多端适配的音乐网站, 持续开发
 
 ## 安装
 
